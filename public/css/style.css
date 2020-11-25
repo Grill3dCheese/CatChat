@@ -141,6 +141,10 @@ a {
 	border-top-right-radius: 5px;
 }
 
+.logo img {
+	width: 30%
+}
+
 .join-main {
 	padding: 30px 40px;
 	background: var(--dark-color-b);
