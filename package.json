@@ -5,16 +5,16 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-	  "dev": "nodemon server"
+    "dev": "nodemon server"
   },
   "author": "Keith McKenna",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "moment": "^2.29.1",
-    "socket.io": "^3.0.3"
+    "socket.io": "^4.4.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.15"
   }
 }
